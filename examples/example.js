@@ -42,7 +42,7 @@ var log4js = require("log4js"), bridjs = require("bridjs"),
         notifyWriteBufferUpdate, streamClosed = false, notifyToCloseStream,
         readyToCloseStream = false, bufferInWriting = false;
 
-log.info(bridjs.symbols("x265d"));
+//log.info(bridjs.symbols("x265d"));
 
 x265 = require("../lib/x265");
 picIn = x265.pictureAlloc();
