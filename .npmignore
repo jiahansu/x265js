@@ -1,0 +1,9 @@
+headers
+netbeans
+node_modules
+x265.dll
+x265d.dll
+examples/test.yuv
+examples/x265.exe
+examples/convert.bat
+examples/output.x265
